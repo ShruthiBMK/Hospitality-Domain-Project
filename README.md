@@ -1,18 +1,26 @@
 # Hospitality-Domain-Project
 AtliQ Hospitality Analysis -Power BI
 ## Problem statement
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+Atliq Grands is a luxury hotel chain operating multiple five-star properties across India. Despite being in the hospitality industry for over 20 years, the company is facing challenges such as:
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+- Declining market share
 
-### Task List
+- Reduced revenue in the luxury/business hotel segment
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
+- Strong competition and strategic moves by rivals
 
---Create the metrics according to the metric list.
+- Ineffective data-driven decision-making
 
---Create a dashboard according to the mock-up provided by stakeholders.
+To regain market position and improve profitability, the management has decided to adopt Business & Data Intelligence practices. Since they lack an in-house analytics team, they partnered with a third-party provider to extract insights from historical business data.
 
---Create relevant insights that are not provided in the metric list/mock-up dashboard.
+### Project Objectives
+
+As a Data Analyst, your primary responsibilities include:
+
+✅ Create business performance metrics defined by the stakeholders
+✅ Design and build a dashboard based on the provided mock-up
+✅ Generate actionable business insights not explicitly included in the requirements
+
+The goal is to help Atliq Grands make informed, data-driven decisions to improve occupancy rates, revenue, and competitive position.
 ### Dataset
 [Click here for dataset:] (https://codebasics.io/challenges/codebasics-resume-project-challenge/4)
