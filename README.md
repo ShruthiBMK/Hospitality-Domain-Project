@@ -28,7 +28,8 @@ The goal is to help Atliq Grands make informed, data-driven decisions to improve
 
 <img width="1136" height="611" alt="image" src="https://github.com/user-attachments/assets/b422931d-341f-4b14-8214-03068ad678ff" />
 
-Live Dashboard: (https://app.powerbi.com/view?r=eyJrIjoiNDIwYWUxYWQtMGNhOS00ZjFkLWI0M2QtMGY2Nzg5NTk5MzYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### Live Dashboard:
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDIwYWUxYWQtMGNhOS00ZjFkLWI0M2QtMGY2Nzg5NTk5MzYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ### Key Performance Insights
